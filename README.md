@@ -1,5 +1,5 @@
 # hola-mundo
-Mi primer repositorio de prueba.
+Mi primer repositorio.
 
 Autor: Joshua H.
 Fecha: 6 de febrero.
